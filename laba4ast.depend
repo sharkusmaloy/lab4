@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1591335983 source:f:\program files\codeblocks\Работы\laba4ast\main.cpp
+	"queue.h"
+
+1591333336 f:\program files\codeblocks\Работы\laba4ast\queue.h
+	<iostream>
+	<windows.h>
+
